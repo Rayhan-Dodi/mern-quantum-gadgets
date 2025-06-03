@@ -35,8 +35,7 @@ QuantumGadgets/
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/yourusername/QuantumGadgets.git
-cd QuantumGadgets
+git clone https://github.com/Rayhan-Dodi/mern-quantum-gadgets
 ```
 
 ### 2. Setup Environment Variables
